@@ -189,7 +189,7 @@ footer nav ul li a {
     /* Styling for <section> -elementet innenfor <main>. */
     main section {
         overflow: hidden; /* Hindrer at elementene "lekker" ut av <section> -elementet. */
-        max-width: 1260px; /* Setter maksimal bredde for <section> -elementet. */
+        max-width: 1440px; /* Setter maksimal bredde for <section> -elementet. */
         width: 100%; /* Fyller hele bredden av foreldreelementet. */
         margin: 0 auto; /* Sentrerer elementet horisontalt. */
     }
